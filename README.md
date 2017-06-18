@@ -1,4 +1,5 @@
 # Python-Ideas
+The Python script will help to search a location on google maps using command line arguments.
 how to use 
 1)Using command line arguments 
 set up Map.py so that when you run it from the command line, like so...
